@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "scripts": {
+      "start": "json-server ./db.js --port 8080 --delay 500"
+    },
+    "dependencies": {
+      "faker": "5.4.0",
+      "json-server": "^0.16.3"
+    }
+  }
