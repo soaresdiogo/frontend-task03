@@ -16,7 +16,7 @@ The main requirements are:
 
 - Your `React` skills
 - Your `TypeScript` skills
-- Your `css` skills
+- Your `css` skills (use Styled-components is a plus)
 
 ## Server-side api
 
